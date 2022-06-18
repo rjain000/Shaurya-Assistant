@@ -2,25 +2,25 @@
 
 
 <h3>Pip command to install the modules:</h3><br>
-pip install SpeechRecognition  
-pip install PyAudio
-pip install pyttsx3  
-pip install playsound  
-pip install Pillow  
-pip install pyscreenshot  
-pip install pynput  
-pip install psutil
-pip install wikipedia  
-pip install webbrowser  
-pip install bs4  
-pip install smtplib 
-pip install youtube_search  
-pip install wmi  
-pip install geopy  
-pip install googletrans==3.1.0a0
-pip install PyAutoGUI
-pip install fonttools
-pip install pygame
+pip install SpeechRecognition  <br>
+pip install PyAudio<br>
+pip install pyttsx3  <br>
+pip install playsound <br> 
+pip install Pillow  <br>
+pip install pyscreenshot <br> 
+pip install pynput  <br>
+pip install psutil<br>
+pip install wikipedia  <br>
+pip install webbrowser  <br>
+pip install bs4  <br>
+pip install smtplib <br>
+pip install youtube_search  <br>
+pip install wmi  <br>
+pip install geopy  <br>
+pip install googletrans==3.1.0a0<br>
+pip install PyAutoGUI<br>
+pip install fonttools<br>
+pip install pygame<br>
 pip install keyboard
 
 <H3>#Screen Shots</h3>
