@@ -1,9 +1,7 @@
 # Shaurya-Assistant
 
 
----Pip command to install the modules:
-
-
+<h3>Pip command to install the modules:</h3><br>
 pip install SpeechRecognition  
 pip install PyAudio
 pip install pyttsx3  
@@ -25,7 +23,7 @@ pip install fonttools
 pip install pygame
 pip install keyboard
 
-#Screen Shots
+<H3>#Screen Shots</h3>
 
 Welcome.py
 
