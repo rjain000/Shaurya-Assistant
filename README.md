@@ -1,7 +1,6 @@
 # Shaurya-Assistant
 
-Pip command to install the modules:
-
+---Pip command to install the modules:
 pip install SpeechRecognition  
 pip install PyAudio
 pip install pyttsx3  
@@ -23,7 +22,6 @@ pip install fonttools
 pip install pygame
 pip install keyboard
 
-#IOT
-LINK: https://github.com/rjain000/Shaurya-Assiatant-IOT
+#IOT LINK: https://github.com/rjain000/Shaurya-Assiatant-IOT
 
 #Project Report Link: https://drive.google.com/file/d/1pHWsSlxHJatQXYj9gBaQpvoY_-sqvxh4/view?usp=sharing
