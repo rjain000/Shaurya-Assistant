@@ -65,6 +65,6 @@ IoT Board:
 
 ![image24](https://user-images.githubusercontent.com/72158030/174428276-f39498ef-ad8c-4291-90a0-52bb3d0177d3.jpg)
 
-#IOT LINK: https://github.com/rjain000/Shaurya-Assiatant-IOT
+<h3>IOT LINK:</h3> https://github.com/rjain000/Shaurya-Assiatant-IOT
 
-#Project Report Link: https://drive.google.com/file/d/1pHWsSlxHJatQXYj9gBaQpvoY_-sqvxh4/view?usp=sharing
+<h3>Project Report Link:</h3> https://drive.google.com/file/d/1pHWsSlxHJatQXYj9gBaQpvoY_-sqvxh4/view?usp=sharing
